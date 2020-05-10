@@ -1,3 +1,3 @@
-import {AppMain} from './AppMain';
+import {ToDo} from './ToDo';
 
-window.customElements.define('app-main', AppMain);
+window.customElements.define('todo-app', ToDo);
